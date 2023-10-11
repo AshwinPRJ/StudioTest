@@ -136,8 +136,8 @@
       <annotation></annotation>
       <name>Error : failure</name>
       <bounds>
-        <x>399.0</x>
-        <y>5.0</y>
+        <x>223.0</x>
+        <y>123.0</y>
       </bounds>
       <layer>-1</layer>
       <hideInbound>false</hideInbound>
@@ -180,8 +180,8 @@
       <annotation></annotation>
       <name>Resolved : success</name>
       <bounds>
-        <x>661.0</x>
-        <y>59.0</y>
+        <x>658.0</x>
+        <y>186.0</y>
       </bounds>
       <layer>-1</layer>
       <hideInbound>false</hideInbound>
